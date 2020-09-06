@@ -15,5 +15,5 @@ My Medium Blog posts :
 
 5.Training Deep Neural Networks on a GPU with PyTorch - https://medium.com/analytics-vidhya/training-deep-neural-networks-on-a-gpu-with-pytorch-2851ccfb6066
 
-5. Image classification with CNN - https://medium.com/swlh/image-classification-with-cnn-4f2a501faadb
+6. Image classification with CNN - https://medium.com/swlh/image-classification-with-cnn-4f2a501faadb
 
