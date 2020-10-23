@@ -17,3 +17,5 @@ My Medium Blog posts :
 
 6. Image classification with CNN - https://medium.com/swlh/image-classification-with-cnn-4f2a501faadb
 
+7. ResNet Residual Neural network on CIFAR10 - https://medium.com/analytics-vidhya/resnet-10f4ef1b9d4c
+
